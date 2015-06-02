@@ -151,7 +151,7 @@ if ($server > 0 || count($cfg['Servers']) > 1
             ),
             '<a href="http://demo.phpmyadmin.net/">demo.phpmyadmin.net</a>'
         );
-        echo '</p>';
+        echo '</p>Hello';
         echo '</div>';
     }
     echo '<div class="group">';
